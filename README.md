@@ -1,9 +1,9 @@
 ## Bem-vindo(a) 😁
 
  <div>
-   <a href="https://github.com/Andrews-Tavares">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrews-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrews-Tavares&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/andrews-tavares">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrews-tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrews-tavares&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
